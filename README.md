@@ -8,7 +8,7 @@
 
 - 📫 Você pode se conectar comigo atráves do meu e-mail **caiobhadriano@gmail.com**
 ## About me
-Atualmente estou estagiando para aprimorar meus conhecimentos em programação, e em buscar de seguir carreira na área.
+Atualmente estou estagiando para aprimorar meus conhecimentos em programação.
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/ccaioadriano/)]https://github.com/ccaioadriano/
 
