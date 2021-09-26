@@ -1,14 +1,14 @@
-<h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Caio Adriano</h1>
-<h3 align="center">Development intern looking to improve my skills</h3>
+<h1 align="center">Olá pessoal <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, Meu nome é Caio Adriano</h1>
+<h3 align="center">Busco aprimorar meus conhecimentos em desenvolvimento Back end</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ccaioadriano" alt="Caio" /> </p>
 
-- 🔭 I’m currently working on [Prodemge](https://www.prodemge.gov.br/)
+- 🔭 Atualmente estou fazendo estágio na [Prodemge](https://www.prodemge.gov.br/)
 
-- 👨‍💻 I have a website published with my resume at [Curriculum](https://curriculocaioadriano.web.app/)
+- 👨‍💻 Possuo uma página web como resumo do meu portifólio [Curriculum](https://curriculocaioadriano.web.app/)
 
-- 📫 How to reach me **caiobhadriano@gmail.com**
+- 📫 Você pode se conectar comigo atráves do meu e-mail **caiobhadriano@gmail.com**
 ## About me
-I'm doing an internship to improve my programming knowledge.
+Atualmente estou estagiando para aprimorar meus conhecimentos em programação, e em buscar de seguir carreira na área.
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/ccaioadriano/)]https://github.com/ccaioadriano/
 
@@ -18,7 +18,3 @@ I'm doing an internship to improve my programming knowledge.
 <img src="https://github-readme-stats.vercel.app/api?username=ccaioadriano&show_icons=true" alt="caio"/> 
 </p>
 
-
-- Thanks for visiting.
-
-- Enjoy it!! o/
