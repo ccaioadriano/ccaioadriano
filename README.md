@@ -7,7 +7,7 @@
 - 👨‍💻 Possuo uma página web como resumo do meu portifólio [Curriculum](https://curriculocaioadriano.web.app/)
 
 - 📫 Você pode se conectar comigo atráves do meu e-mail **caiobhadriano@gmail.com**
-## About me
+## Sobre
 Atualmente estou estagiando para aprimorar meus conhecimentos em programação.
 
 ![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/ccaioadriano/) https://github.com/ccaioadriano/
