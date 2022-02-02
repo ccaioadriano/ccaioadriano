@@ -1,5 +1,5 @@
 <h1 align="center">Olá pessoal <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, Meu nome é Caio Adriano</h1>
-<h3 align="center">Busco aprimorar meus conhecimentos em desenvolvimento Back end</h3>
+<h3 align="center">Busco aprimorar meus conhecimentos em desenvolvimento</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ccaioadriano" alt="Caio" /> </p>
 
 - 🔭 Atualmente estou fazendo estágio na [Prodemge](https://www.prodemge.gov.br/)
